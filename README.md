@@ -1,1 +1,2 @@
 # odin-rock-paper-scissors
+This is my brand-new rock paper scissors game. You can play it entirely from the console (as of right now). Hope you have fun! Thanks to the Odin project for helping me learn how to do this.
